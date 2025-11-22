@@ -35,7 +35,10 @@ Este artículo presenta:
 
 **Website**: [agi-aes.org](https://agi-aes.org)
 **GitHub Repository**: [AGI-AEF-Standard](https://github.com/Yatrogenesis/AGI-AEF-Standard)
-**DOI**: [10.5281/ZENODO.17680792](https://doi.org/10.5281/ZENODO.17680792) *(pending)*
+**Framework DOI**: [10.5281/ZENODO.17680792](https://doi.org/10.5281/ZENODO.17680792) *(Framework/Software)*
+**Article DOI**: *Pending submission*
+
+**Note**: The DOI 10.5281/ZENODO.17680792 references the AGI-AES Framework specification and software, not this article. This article will receive its own DOI upon publication in peer-reviewed venues.
 
 **Target venues**:
 - **Medium** / **LinkedIn**: For general audience
