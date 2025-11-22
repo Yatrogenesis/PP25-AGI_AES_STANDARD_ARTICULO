@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this article or the AGI-AES framework, please cite it as below."
+type: article
+title: "AGI-AES: Redefiniendo la Evaluación de la Inteligencia Artificial General"
+authors:
+  - family-names: "Molina Burgos"
+    given-names: "Francisco"
+    orcid: "https://orcid.org/0009-0008-6093-8267"
+    email: "pako.molina@gmail.com"
+    affiliation: "Yatrogenesis Research"
+date-released: 2025-11-22
+version: "1.0.0"
+doi: "10.5281/zenodo.XXXXXXX"
+url: "https://agi-aes.org"
+repository-code: "https://github.com/Yatrogenesis/PP25-AGI_AES_STANDARD_ARTICULO"
+keywords:
+  - Artificial General Intelligence
+  - AGI Evaluation
+  - Machine Consciousness
+  - AI Assessment Framework
+  - Autonomy Measurement
+  - AI Standards
+  - Cognitive Systems
+license: CC-BY-SA-4.0
+abstract: "El AGI Autonomy Evaluation Standard (AGI-AES) representa un avance fundamental en la evaluación y certificación de sistemas de Inteligencia Artificial General. Con una precisión sin precedentes de 256 niveles (escala de 8 bits) y 12 dimensiones de capacidad ponderadas, este marco open-source establece por primera vez un lenguaje común y riguroso para medir la autonomía real de sistemas AGI."

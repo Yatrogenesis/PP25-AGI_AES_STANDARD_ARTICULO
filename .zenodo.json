@@ -1,0 +1,40 @@
+{
+  "title": "AGI-AES: Redefiniendo la Evaluación de la Inteligencia Artificial General",
+  "description": "El AGI Autonomy Evaluation Standard (AGI-AES) presenta un framework de 256 niveles para la evaluación rigurosa de sistemas de Inteligencia Artificial General, estableciendo el primer estándar universal con precisión de 8 bits y 12 dimensiones de capacidad ponderadas.",
+  "creators": [
+    {
+      "name": "Molina Burgos, Francisco",
+      "affiliation": "Yatrogenesis Research",
+      "orcid": "0009-0008-6093-8267"
+    }
+  ],
+  "keywords": [
+    "Artificial General Intelligence",
+    "AGI Evaluation",
+    "Machine Consciousness",
+    "AI Assessment Framework",
+    "Autonomy Measurement",
+    "AI Standards",
+    "Cognitive Systems",
+    "256-level scale",
+    "Multi-dimensional evaluation"
+  ],
+  "license": "CC-BY-SA-4.0",
+  "upload_type": "article",
+  "publication_type": "article",
+  "version": "1.0.0",
+  "publication_date": "2025-11-22",
+  "language": "spa",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Yatrogenesis/AGI-AEF-Standard",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://agi-aes.org",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ]
+}
