@@ -1,6 +1,6 @@
 # AGI-AES: Redefiniendo la Evaluación de la Inteligencia Artificial General
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/ZENODO.17680792.svg)](https://doi.org/10.5281/ZENODO.17680792)
 [![Website](https://img.shields.io/badge/website-agi--aes.org-blue)](https://agi-aes.org)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -35,7 +35,7 @@ Este artículo presenta:
 
 **Website**: [agi-aes.org](https://agi-aes.org)
 **GitHub Repository**: [AGI-AEF-Standard](https://github.com/Yatrogenesis/AGI-AEF-Standard)
-**DOI**: [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX) *(pending)*
+**DOI**: [10.5281/ZENODO.17680792](https://doi.org/10.5281/ZENODO.17680792) *(pending)*
 
 **Target venues**:
 - **Medium** / **LinkedIn**: For general audience
@@ -88,7 +88,7 @@ If you use AGI-AES in your research or applications, please cite:
   journal={Preprint},
   year={2025},
   publisher={Zenodo},
-  doi={10.5281/zenodo.XXXXXXX},
+  doi={10.5281/ZENODO.17680792},
   url={https://agi-aes.org}
 }
 ```
