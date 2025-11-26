@@ -1,6 +1,5 @@
 # AGI-AES: Redefiniendo la Evaluación de la Inteligencia Artificial General
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/ZENODO.17680792.svg)](https://doi.org/10.5281/ZENODO.17680792)
 [![Website](https://img.shields.io/badge/website-agi--aes.org-blue)](https://agi-aes.org)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -13,7 +12,7 @@
 
 ## Abstract
 
-El **AGI Autonomy Evaluation Standard (AGI-AES)** representa un avance fundamental en la evaluación y certificación de sistemas de Inteligencia Artificial General. Con una precisión sin precedentes de 256 niveles (escala de 8 bits) y 12 dimensiones de capacidad ponderadas, este marco open-source establece por primera vez un lenguaje común y riguroso para medir la autonomía real de sistemas AGI.
+El **AGI-AES Evaluation Framework Paper (AGI-AES)** representa un avance fundamental en la evaluación y certificación de sistemas de Inteligencia Artificial General. Con una precisión sin precedentes de 256 niveles (escala de 8 bits) y 12 dimensiones de capacidad ponderadas, este marco open-source establece por primera vez un lenguaje común y riguroso para medir la autonomía real de sistemas AGI.
 
 Este artículo presenta:
 - El problema de la fragmentación en evaluación AGI (Torre de Babel)
@@ -35,10 +34,7 @@ Este artículo presenta:
 
 **Website**: [agi-aes.org](https://agi-aes.org)
 **GitHub Repository**: [AGI-AEF-Standard](https://github.com/Yatrogenesis/AGI-AEF-Standard)
-**Framework DOI**: [10.5281/ZENODO.17680792](https://doi.org/10.5281/ZENODO.17680792) *(Framework/Software)*
 **Article DOI**: *Pending submission*
-
-**Note**: The DOI 10.5281/ZENODO.17680792 references the AGI-AES Framework specification and software, not this article. This article will receive its own DOI upon publication in peer-reviewed venues.
 
 **Target venues**:
 - **Medium** / **LinkedIn**: For general audience
@@ -91,7 +87,7 @@ If you use AGI-AES in your research or applications, please cite:
   journal={Preprint},
   year={2025},
   publisher={Zenodo},
-  doi={10.5281/ZENODO.17680792},
+  ,
   url={https://agi-aes.org}
 }
 ```

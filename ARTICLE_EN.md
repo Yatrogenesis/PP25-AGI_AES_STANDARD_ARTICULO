@@ -9,7 +9,7 @@
 
 ## Executive Summary
 
-The **AGI Autonomy Evaluation Standard (AGI-AES)** represents a fundamental breakthrough in the evaluation and certification of Artificial General Intelligence systems. With unprecedented precision of 256 levels (8-bit scale) and 12 weighted capability dimensions, this open-source framework establishes—for the first time—a common and rigorous language for measuring the real autonomy of AGI systems.
+The **AGI-AES Evaluation Framework - Scientific Paper (AGI-AES)** represents a fundamental breakthrough in the evaluation and certification of Artificial General Intelligence systems. With unprecedented precision of 256 levels (8-bit scale) and 12 weighted capability dimensions, this open-source framework establishes—for the first time—a common and rigorous language for measuring the real autonomy of AGI systems.
 
 In an era where dozens of organizations claim to be "approaching AGI" yet use incompatible metrics, AGI-AES provides the missing foundation: a universal, scientifically grounded, and audit-ready standard that bridges the gap between theoretical AI research and practical deployment realities.
 
@@ -66,7 +66,7 @@ Perhaps most critically, the lack of standardized evaluation creates blindspots 
 
 ### A 256-Level Scale with 8-Bit Precision
 
-The **AGI Autonomy Evaluation Standard** introduces a paradigm shift in artificial general intelligence evaluation through a **256-level** (0-255) scale, providing unprecedented granularity in measuring autonomous capabilities.
+The **AGI-AES Evaluation Framework - Scientific Paper** introduces a paradigm shift in artificial general intelligence evaluation through a **256-level** (0-255) scale, providing unprecedented granularity in measuring autonomous capabilities.
 
 #### Why Exactly 256 Levels?
 
@@ -1086,7 +1086,6 @@ Typically SE ≈ 3-5 points for well-calibrated evaluations
 
 **ORCID**: [0009-0008-6093-8267](https://orcid.org/0009-0008-6093-8267)
 
-**Framework DOI**: [10.5281/ZENODO.17680792](https://doi.org/10.5281/ZENODO.17680792)
 *(Note: This DOI references the AGI-AES Framework specification and software, not this article. This article will receive its own DOI upon peer-reviewed publication.)*
 
 **License**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)

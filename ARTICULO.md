@@ -26,7 +26,6 @@ El Test de Turing (1950), aunque revolucionario en su época, es binario e insuf
 
 **AGI-AES** rompe este estancamiento.
 
-
 ---
 
 ## La Solución: AGI-AES
@@ -55,8 +54,6 @@ La psicofísica moderna establece que la percepción humana de diferencias sigue
 **3. Evitar la Arbitrariedad de Escalas Previas**
 
 Los frameworks existentes utilizan escalas de 5, 10 o incluso 100 niveles sin justificación científica. AGI-AES adopta 256 por fundamento matemático, tradición científica (RGB 0-255, audio 8-bit), y balance pragmático.
-
-
 
 #### Fundamento Matemático
 
@@ -162,7 +159,6 @@ Amodei et al (2016), Bostrom (2014), Gabriel (2020), Hendrycks et al (2021).
 **Anexo C: Contacto**
 Web: agi-aes.org | GitHub: github.com/Yatrogenesis/AGI-AEF-Standard
 Email: pako.molina@gmail.com | ORCID: 0009-0008-6093-8267
-DOI: 10.5281/ZENODO.17680792 | Licencia: CC BY-SA 4.0
 
 Cita: Molina Burgos, F. (2025). AGI-AES: Redefiniendo la Evaluación de la Inteligencia Artificial General. Zenodo.
 

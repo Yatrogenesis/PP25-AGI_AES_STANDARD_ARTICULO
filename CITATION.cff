@@ -10,7 +10,6 @@ authors:
     affiliation: "Yatrogenesis Research"
 date-released: 2025-11-22
 version: "1.0.0"
-doi: "10.5281/ZENODO.17680792"
 url: "https://agi-aes.org"
 repository-code: "https://github.com/Yatrogenesis/PP25-AGI_AES_STANDARD_ARTICULO"
 keywords:
@@ -22,4 +21,4 @@ keywords:
   - AI Standards
   - Cognitive Systems
 license: CC-BY-SA-4.0
-abstract: "El AGI Autonomy Evaluation Standard (AGI-AES) representa un avance fundamental en la evaluación y certificación de sistemas de Inteligencia Artificial General. Con una precisión sin precedentes de 256 niveles (escala de 8 bits) y 12 dimensiones de capacidad ponderadas, este marco open-source establece por primera vez un lenguaje común y riguroso para medir la autonomía real de sistemas AGI."
+abstract: "El AGI-AES Evaluation Framework - Scientific Paper (AGI-AES) representa un avance fundamental en la evaluación y certificación de sistemas de Inteligencia Artificial General. Con una precisión sin precedentes de 256 niveles (escala de 8 bits) y 12 dimensiones de capacidad ponderadas, este marco open-source establece por primera vez un lenguaje común y riguroso para medir la autonomía real de sistemas AGI."
